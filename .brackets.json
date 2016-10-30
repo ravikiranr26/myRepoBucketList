@@ -1,0 +1,8 @@
+{
+    "jscodehints.detectedExclusions": [
+        "E:/capgemini/Latest-Cto/ctoblogapp/cto-blog-app/BucketListApp/prod/client/www/lib/ionic/js/ionic.min.js",
+        "E:/capgemini/Latest-Cto/ctoblogapp/cto-blog-app/BucketListApp/dev/server/server.js",
+        "E:/capgemini/Latest-Cto/ctoblogapp/cto-blog-app/BucketListApp/dev/server/list/manageList.js",
+        "E:/capgemini/Latest-Cto/ctoblogapp/cto-blog-app/BucketListApp/prod/client/www/lib/ionic/js/ionic.js"
+    ]
+}
